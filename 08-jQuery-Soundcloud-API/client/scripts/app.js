@@ -1,7 +1,7 @@
 App = {};
 
 App.server = 'https://api.soundcloud.com/tracks?client_id=';
-clientID = '6617a80ec894fc13c3fee6db07053a7d';
+clientID = '';
 
 
 App.fetch = function() {
