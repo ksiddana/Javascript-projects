@@ -1,0 +1,43 @@
+/* Put your Styling in here */
+body {
+	  height:inherit;
+    width: inherit;
+    margin:auto;
+    position: relative;
+    font: normal 13px/19px "Open Sans", sans-serif;
+    
+}
+
+.main-page {
+  height: auto;
+  
+/*  The width is inherited from the body style*/
+  width: auto;
+  border: 3px solid #1eafaf;
+  background-color: #dae6e6;
+  border-radius: 10px;
+/*  Vertical, Horizontal, Blur effect*/
+  box-shadow: 2px 2px 2px; 
+  float: left;
+  position: relative;
+  margin-left:2px;
+/*  box-sizing: border-box;*/
+}
+
+.output {
+  height: auto;
+  width: 300px;
+  border: 2px solid black;
+  margin: 0 0 0 20px;
+  overflow: auto;
+  float: left;
+  position: relative;
+  padding-left:10px;
+
+}
+
+/*Look up the console for default settings and change them*/
+input {
+
+}
+

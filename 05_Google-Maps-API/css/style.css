@@ -1,0 +1,22 @@
+/* Put your Styling in here */
+body {
+	height: auto;
+	width: auto;
+
+}
+
+
+.main-page {
+	background-color: #f1f1f1;
+	width: 500px;
+	height: 500px;
+	/*box-shadow: 5px, 5px 5px;*/
+
+}
+
+#googleMap {
+	width: 450px;
+	height: 450px;
+	margin: auto;
+
+}
